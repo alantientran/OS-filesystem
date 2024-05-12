@@ -1,4 +1,4 @@
-# CS 439 OS Filesystem
+# CS 439 OS File System
 This multi-part project consists of 4 different PintOS sections.
 
 ## Threads
