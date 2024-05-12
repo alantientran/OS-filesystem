@@ -1,5 +1,5 @@
 # CS 439 OS Filesystem
-This multi-part project consists of 4 different sections.
+This multi-part project consists of 4 different PintOS sections.
 
 ## Threads
 * Create initial kernel thread and set thread states (i.e.- running, idle, blocked) inside semaphores to prevent race condiitons
